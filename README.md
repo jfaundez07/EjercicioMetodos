@@ -36,3 +36,6 @@ Para almacenar las plantas, podria utilizar una matriz que simule la siguietne t
 | Girasol | 2              | 
 
 
+# Codigo de referencia
+
+![Codigo](/carbon(1).png)
