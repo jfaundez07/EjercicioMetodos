@@ -6,7 +6,7 @@
 
 Usted se encuentra nuevamente trabajando en su jardin digital,y se le ha solictado ampliar las capacidades del sistema.
 
-Ahora debe ser capaz de almacenar las plantas, considerando el nombre (rosa, petulia, girasol) y la cantidad de dias que lleva sin regar (1, 2,.., n). 
+Ahora debe ser capaz de almacenar las plantas, considerando el nombre (rosa, petulia, girasol) y la cantidad de dias que lleva sin regar (1, 2,.., n), hasta un maximo de 10 plantas (que es la capacidad que tiene su jardin actualmente). 
 
 Ademas, se deben incluir las siguientes funcionalidades:
 - Registrar una nueva planta
