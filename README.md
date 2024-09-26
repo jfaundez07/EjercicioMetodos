@@ -1,6 +1,6 @@
 # Ejercicio Jardin Digital - Parte 2
 
-## 05/09
+## 26/09
 
 # Descripcion del caso:
 
@@ -35,7 +35,38 @@ Para almacenar las plantas, podria utilizar una matriz que simule la siguietne t
 | Petunia | 3              |
 | Girasol | 2              | 
 
+# Tareas:
+1) Crear proyecto
+2) Incluir dependencia JUnit para pruebas unitarias
+3) Desarrollar la solucion (Requisitos del sistema)
+4) Diseñar e implementar casos de prueba
+5) Ejecutar pruebas
 
+## Unit Test
+
+Se agregan pruebas unutarias usando el framework '*JUnit 5*'.  
+Los metodos utilizados constan de:
+```java
+assertTrue(); // Aprueba si el parametro es verdadero
+assertFalse(); // Aprueba si el parametro es falso
+assertEquals(); // Aprueba si los parametros entregados son iguales
+```
+
+Para el archivo pom.xml:
+```xml
+<dependencies>
+    
+    <dependency>
+        <groupId>org.junit.jupiter</groupId>
+        <artifactId>junit-jupiter-api</artifactId>
+        <version>5.11.0</version>
+        <scope>test</scope>
+    </dependency>
+
+</dependencies>
+```
+
+Referencia: [Maven Respository](https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api)
 # Codigo de referencia
 
 ![Codigo](/carbon(1).png)
